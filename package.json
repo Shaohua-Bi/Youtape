@@ -15,9 +15,9 @@
   "author": "Junjie Chen, Xiangyu Zhou, An Sun, Yuankai Ma, Ming Tang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RookieZxy/CS-546-Final-Project/issues"
+    "url": "https://github.com/Shaohua-Bi/Youtape/issues"
   },
-  "homepage": "https://github.com/RookieZxy/CS-546-Final-Project",
+  "homepage": "https://github.com/Shaohua-Bi/Youtape",
   "dependencies": {
     "axios": "^0.26.1",
     "bcrypt": "^5.0.1",
