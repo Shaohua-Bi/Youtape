@@ -1,7 +1,6 @@
 {
-  "name": "cs-546-final-project",
+  "name": "Shaohua-Bi-project",
   "version": "1.0.0",
-  "description": "This our Final Project of CS 546 in SIT.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
