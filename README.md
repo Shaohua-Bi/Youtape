@@ -8,7 +8,7 @@ HTML, CSS, Bootstrap, Express, Node.js, and MongoDB.
 
 ## How to Setup
 
-Clone the repo 'git clone [https://github.com/RookieZxy/CS-546-Final-Project](https://github.com/Shaohua-Bi/Youtape)'
+Clone the repo 'git clone https://github.com/Shaohua-Bi/Youtape'
 
 Run 'npm install' to install the required dependencies for our project.
 
