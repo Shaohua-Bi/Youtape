@@ -1,4 +1,4 @@
-# CS 546 Web Programming I Final Project: YouTape
+# YouTape
 
 Our application operates as a movie recommended board. Users are allowed to search for movies by categories and names, have a look at essential information before paying for the ticket and leave a score/comment after watching it. The purpose is to build a platform that users can rely on when hesitating about movie tonight, and a community that users can discuss everything of a movie. 
 
