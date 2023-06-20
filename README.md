@@ -40,17 +40,3 @@ In addition, an administrator will be able to manage users and review movies.
 
 This web application integrates the IMDB API. In order to run the application properly, request API keys from the IMDB API (https://imdb-api.com/). Then insert those keys into the appropriate variables in the 'config/settings.json'.
 
-## Authors
-
-- Junjie Chen
-
-- Xiangyu Zhou
-
-- An Sun
-
-- Yuankai Ma
-
-- Ming Tang 
-
-## GitHub Link
-- https://github.com/RookieZxy/CS-546-Final-Project
